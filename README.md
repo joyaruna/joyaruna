@@ -4,7 +4,7 @@ I have worked on agile teams where I was both the (interim) product designer usi
 I have good communications skills to unblock dependencies which enables me to create value to the organization I work with.  
 
 Programming Languages and Framework: Javascript, Typescript, React, Angular, ReactNative,, HTML, SASS, CSS, Styled Components, 
-Expo, BootstrapJS, TailwindCSS, GraphQL, Redux, ReduxToolkit, NextJS 
+Expo, BootstrapJS, TailwindCSS, GraphQL, Redux, ReduxToolkit, NextJS , Docker, Microsoft Azure, Vue
 
 Backend - NodeJS, ExpressJS 
 
